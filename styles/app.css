@@ -1,9 +1,11 @@
-h1 {
-  color: black;
-  font-family: "Playfair Display", serif;
-  font-weight: bold;
+:root {
+  --branding-color: #6c63ff;
+  --secondary-color: #f9f7fe;
+  --heading-font-family: "Playfair Display", serif;
+  --default-font-family: "Poppins", sans-serif;
 }
-p {
-  font-family: "Poppins", sans-serif;
-  font-weight: normal;
+.hero {
+  background: var(--secondary-color);
+  text-align: center;
+  padding: 160px 20px;
 }
