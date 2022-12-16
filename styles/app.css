@@ -107,7 +107,7 @@ p {
   padding: 120px 60px;
 }
 .logo {
-  max-height: 40px;
+  max-height: 80px;
 }
 .active {
   color: var(--branding-color) !important;
